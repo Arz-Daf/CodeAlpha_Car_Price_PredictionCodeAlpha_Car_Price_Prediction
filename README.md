@@ -1,4 +1,4 @@
-# Car Price Prediction with Machine Learning 🚗💰
+# Car Price Prediction with Machine Learning 🚗
 
 ![Car Price Prediction Banner](https://images.unsplash.com/photo-1550355291-bbee04a92027?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
 
@@ -51,5 +51,5 @@ The Random Forest Regressor demonstrated excellent predictive capabilities, achi
    ```
 
 ---
-**Author**: [Your Name/Azzya]  
+**Author**: [Muhammad Alfarizi Ramadhiyansa]  
 **Internship**: CodeAlpha - Data Science Intern
